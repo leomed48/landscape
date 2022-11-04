@@ -69,4 +69,17 @@
     z-index: 2;
 }
 
+.nubes{
 
+    width: 10%;
+    height: 10%;
+   
+    margin-top: 15px;
+    margin-left: 30%;
+    background-color: white;
+    border-radius: 15%;
+    
+    
+
+
+}
